@@ -12,7 +12,7 @@ Equal proportion of men and women come into ER.
 The age distribution of patients is approximately uniform from 0 to 80. 
 
 # Remark
-Since this dataset is a real data, there is no interesting insights from the data.
+Since this dataset is fake, there is no interesting insights to draw from the data.
 
 # Credits
 Data was obtained from https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv
