@@ -1,7 +1,7 @@
 # Hospital Dashboard
  
 # Description 
-This is a dashboard built in Tableau. This dashboard gives an overview of an Emergency Room at a hospital. 
+This is a dashboard built in Tableau. The dataset contains several information of patients at Emergency Room.
 
 # Findings
 The patient satisfaction score is 5 out of 10 which is below the average score of 7.1.
