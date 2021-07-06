@@ -1,5 +1,7 @@
 # Hospital Dashboard
- 
+
+![Alt text](https://github.com/redkai11/Hospital-Dashboard/blob/main/Hopsital%20Dashboard-1.png)
+
 # Description 
 This is a dashboard built in Tableau. The dataset contains several information of patients at Emergency Room.
 
